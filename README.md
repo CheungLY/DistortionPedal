@@ -20,3 +20,7 @@ This is the look of the PCB
 
 And this is the 3D model:
 <img width="945" height="736" alt="image" src="https://github.com/user-attachments/assets/0a276743-952b-42cd-8ad2-becd7eb6c962" />
+
+The Gerber is attached in the Distortion pedal.zip and schematic with PCB as well.
+
+The only specifically unique component is the 3PDT STOMP SWITCH, Kicad inherintly does not have this switch so you may need to design one yourself using the different symbols for SPDT switches. This is a specific switch used in most pedals
